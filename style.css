@@ -65,6 +65,7 @@ body {
   
   .content .body {
     width: 90%;
+    margin: 0 auto;
   }
   
   .body p {
