@@ -87,6 +87,10 @@ body {
     color: #05A8AA;
     display: block;
     font-weight: 700;
+    width: 200px;
+    padding: 20px;
+    margin: 40px auto;
+    border: 1px solid blue;
   }
   
   .button:hover {
